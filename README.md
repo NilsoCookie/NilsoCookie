@@ -8,7 +8,7 @@ I've been learning to code since i was around 12 years old love all the stuff yo
 
 * 🌍  I'm based in Nittedal, Norway
 * ✉️  You can contact me at [nilsob08@gmail.com](mailto:nilsob08@gmail.com)
-* 🚀  I'm currently working on [My website](http://nilsocookie.github.io)
+* 🚀  I'm currently working on [my website](http://nilsocookie.github.io)
 * 🧠  I'm learning Javascript, HTML & CSS
 * 🤝  I'm open to collaborating on interesting projects
 
